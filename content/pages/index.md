@@ -98,7 +98,6 @@ sections:
     title: Get future posts
     feature:
       type: ImageBlock
-      url: /images/contact.png
       altText: Fisherman holding lobster
     form:
       type: FormBlock
