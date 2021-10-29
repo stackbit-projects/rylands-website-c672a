@@ -14,13 +14,13 @@ The sky is covered by a cloudy grey blanket this morning. Though there's a strip
 
 Anyways, did you bring your average monthly spending and income? Oh, great. Do this:
 
+
+
 Subtract your spending from your income. This is your average savings:
 
 
 
 Divide your savings by your income. Multiply that number by 100. This is your savings ratio.
-
-
 
 Check out the chart below. I'm going to explain the beautiful inner workings behind it in a few posts. But at the moment let's keep it simple. Find your savings ratio. Next to it you'll see the years of work left until freedom, assuming you start with $0.
 
