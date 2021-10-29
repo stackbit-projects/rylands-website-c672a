@@ -16,11 +16,6 @@ sections:
     title: Things the interest me
     actions:
       - type: Button
-        label: Get Started
-        url: /
-        style: primary
-        elementId: hero-main-button
-      - type: Button
         label: Learn More
         url: /
         style: secondary
