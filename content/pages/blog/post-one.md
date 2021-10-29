@@ -2,7 +2,6 @@
 title: '#002 Financial Freedom and The Savings Ratio'
 layout: PostLayout
 date: '2013-02-08'
-author: content/data/team/dianne-ameter.json
 featuredImage:
   type: ImageBlock
   url: /images/002 Financial Freedom and The Savings Ratio.png
