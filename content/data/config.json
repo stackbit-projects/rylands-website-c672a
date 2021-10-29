@@ -60,6 +60,15 @@
                 "url": "https://twitter.com/rylandking",
                 "showIcon": true,
                 "icon": "twitter"
+            },
+            {
+                "label": "lorem-ipsum",
+                "altText": "lorem-ipsum",
+                "url": "#",
+                "showIcon": false,
+                "icon": "facebook",
+                "style": "secondary",
+                "elementId": ""
             }
         ],
         "legalLinks": [],
