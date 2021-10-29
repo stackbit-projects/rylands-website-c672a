@@ -14,7 +14,7 @@ The sky is covered by a cloudy grey blanket this morning. Though there's a strip
 
 Anyways, did you bring your average monthly spending and income? Oh, great. Do this:
 
-
+![](/images/how%20to%20calculate%20your%20net%20income-3990c4a0.png)
 
 Subtract your spending from your income. This is your average savings:
 
