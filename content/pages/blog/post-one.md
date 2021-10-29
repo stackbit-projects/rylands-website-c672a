@@ -1,5 +1,5 @@
 ---
-title: '#002 Financial Freedom Savings Ratio'
+title: '#002 Financial Freedom and The Savings Ratio'
 layout: PostLayout
 date: '2013-02-08'
 author: content/data/team/dianne-ameter.json
