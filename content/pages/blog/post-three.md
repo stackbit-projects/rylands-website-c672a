@@ -1,5 +1,5 @@
 ---
-title: Post Title Three
+title: '#001 I Want Freedom'
 layout: PostLayout
 date: '2013-02-01'
 author: content/data/team/hilary-ouse.json
