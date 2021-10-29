@@ -5,7 +5,7 @@ date: '2013-02-08'
 author: content/data/team/dianne-ameter.json
 featuredImage:
   type: ImageBlock
-  url: /images/post-1.jpeg
+  url: /images/002 Financial Freedom and The Savings Ratio.png
   altText: Post Image
 bottomSections: []
 ---
