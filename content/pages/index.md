@@ -64,7 +64,7 @@ sections:
     variant: variant-a
     colors: colors-a
     backgroundWidth: inset
-    title: How to Get Rich and Live Free
+    title: How To Get Rich
     posts:
       - content/pages/blog/post-three.md
       - content/pages/blog/post-one.md
