@@ -75,7 +75,7 @@ sections:
         justifyContent: center
     subtitle: The first steps you should take to make yourself rich
   - type: ContactSection
-    colors: colors-h
+    colors: colors-a
     backgroundWidth: full
     title: Join our club
     text: >-
