@@ -54,6 +54,7 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
+    subtitle: Learn how to get rich and where to surf.
   - type: FeaturedPostsSection
     variant: variant-c
     colors: colors-c
