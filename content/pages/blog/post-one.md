@@ -3,9 +3,6 @@ title: '#002 One Number That Takes You To Freedom'
 layout: PostLayout
 date: '2013-02-08'
 author: content/data/team/dianne-ameter.json
-excerpt: >-
-  Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu,
-  eget egestas tortor pretium id. Sed imperdiet mattis eleifend.
 featuredImage:
   type: ImageBlock
   url: /images/post-1.jpeg
