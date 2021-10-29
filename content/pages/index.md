@@ -94,10 +94,6 @@ sections:
           placeholder: Your email
           isRequired: true
           width: 1/2
-        - type: CheckboxFormControl
-          name: updates
-          label: Sign me up to receive updates
-          width: full
       submitLabel: Send Message
     styles:
       self:
