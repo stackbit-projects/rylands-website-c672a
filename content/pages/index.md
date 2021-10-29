@@ -24,7 +24,7 @@ sections:
         style: primary
         elementId: ''
         type: Button
-      - label: Learn more
+      - label: Surf Atlas
         altText: Learn more
         url: /
         showIcon: false
