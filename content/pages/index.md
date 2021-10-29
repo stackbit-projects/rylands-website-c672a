@@ -91,7 +91,7 @@ sections:
         textAlign: center
       actions:
         justifyContent: center
-    subtitle: The first steps to make yourself rich
+    subtitle: The first steps to making yourself rich
   - type: ContactSection
     colors: colors-a
     backgroundWidth: inset
