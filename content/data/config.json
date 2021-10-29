@@ -24,7 +24,8 @@
                 "label": "How to Get Rich",
                 "url": "/how-to-get-rich",
                 "altText": "",
-                "showIcon": false
+                "showIcon": false,
+                "style": "link"
             },
             {
                 "type": "Link",
