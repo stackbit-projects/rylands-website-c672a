@@ -77,3 +77,23 @@ Lindy and her boy move in together and she gets her last raise. Lindy and her bo
 **Lindy's lifestyle cost continues at $1,250/mo. This increases her savings ratio again to 66%.**
 
 After 10 years, at age 32, Lindy's amassed $336,000! With some simply math (that we'll understand well in a few posts), she sees she can now pull out $1,120 each month and her $336,000 will never diminish. In a few months her money will be making her enough to cover her lifestyle cost!
+
+Lindy gets her boy in the room to share the news He had got the same paychecks as her and started with a net work of $0 two years in to Lindy's freedom expedition. **They are ecstatic to see that together they’ve amassed $646,000 after 10 years! **They see they can now pull out $2,154 each month – the same amount as their living expenses – and their $646,000 will never diminish! They are financial free!
+
+Lindy and her boy take off to travel the world. After a year of incredible adventures in Mexico, Costa Rica and Nicaragua they begin to miss their loved ones. They decide to come home. **Because they kept their lifestyle cost the same while traveling, they return home with the same amount of money in their bank account! **They hope in a rental house for a month near friends and family. They invite them over to share stories and meals over the next few weeks without the worry of finding another way to pay for rent or food.
+
+They then purchase an old house near some lovely hiking trails and a good school system. Lindy's boy works together with a few trade contractor friends he's hired and they re-build a lovely home for them to live in. A few weeks after the move-in they have their friends who helped build the house and their families over for a wonderful evening celebration.
+
+They then decide to have a kid. Nine months later, Lindy brings little-Lindy into the world. Lindy and her boy get to spend the time they’ve always wanted with their child because they aren’t dependent on going to a job to pay for their lifestyle. As little-Lindy grows Lindy starts up a small hand-made jewelry business inspired from her trip. And her boy starts giving mountaineering tours with the local tour company on the days of his choice.
+
+Seem too good to be true?
+
+Here is the real-life version of [Lindy and her boy traveling the world](http://freedomwithbruno.com/financial-independence/). And here is the real-life version of [Lindy and her boy once they have a kid](http://www.mrmoneymustache.com/2013/02/22/getting-rich-from-zero-to-hero-in-one-blog-post/). Two blogs I am totally inspired by.
+
+So now let's get there.  
+
+**Here’s your next step: Weigh your current purchases to purchasing freedom. Look at how Lindy lived her life. What will you change right now to knock 10, 20, or 30 years off your dependence on a paycheck?**
+
+Oh, look. The sun came out. Well, enjoy the blue sky. I'm excited to talk again soon!
+
+Check out Lindy and Dave's lives by the numbers [here](https://docs.google.com/spreadsheets/d/1YW3-K4mYQK0xEt1UUEmpUFnhk-DqeoJz7MvCl4Idpc4/edit#gid=0). And feel free to ask any questions or leave your thoughts in the comments below. I would love to hear them!
