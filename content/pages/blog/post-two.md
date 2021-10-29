@@ -6,6 +6,7 @@ featuredImage:
   type: ImageBlock
   url: /images/003 Investing and The Rule of 752.png
   altText: 003 Investing and The Rule of 752
+  caption: 003 Investing and The Rule of 752
 bottomSections:
   - type: CtaSection
     colors: colors-e
