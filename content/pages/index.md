@@ -112,7 +112,7 @@ sections:
           placeholder: Your email
           isRequired: true
           width: 1/2
-      submitLabel: Sign e me up
+      submitLabel: Sign  me up
     styles:
       self:
         height: auto
