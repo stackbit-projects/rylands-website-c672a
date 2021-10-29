@@ -63,13 +63,6 @@
             },
             {
                 "type": "Social",
-                "altText": "Instagram",
-                "url": "/",
-                "showIcon": true,
-                "icon": "instagram"
-            },
-            {
-                "type": "Social",
                 "altText": "Facebook",
                 "url": "/",
                 "showIcon": true,
