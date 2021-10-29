@@ -57,7 +57,7 @@ sections:
           label: Name
           placeholder: Your name
           isRequired: false
-          width: full
+          width: 1/2
           type: EmailFormControl
       submitLabel: lorem-ipsum
       elementId: lorem-ipsum
