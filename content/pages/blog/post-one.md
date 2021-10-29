@@ -7,6 +7,7 @@ featuredImage:
   type: ImageBlock
   url: /images/002 Financial Freedom and The Savings Ratio.png
   altText: 002 Financial Freedom and The Savings Ratio
+  caption: 002 Financial Freedom and The Savings Ratio
 bottomSections: []
 ---
 
