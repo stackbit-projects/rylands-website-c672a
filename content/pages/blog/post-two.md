@@ -5,7 +5,7 @@ date: '2013-02-15'
 featuredImage:
   type: ImageBlock
   url: /images/003 Investing and The Rule of 752.png
-  altText: Post Image
+  altText: 003 Investing and The Rule of 752
 bottomSections:
   - type: CtaSection
     colors: colors-e
