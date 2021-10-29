@@ -14,7 +14,16 @@ sections:
           opacity: 100
       type: ImageBlock
     title: Things the interest me
-    actions: []
+    actions:
+      - label: Learn more
+        altText: Learn more
+        url: /
+        showIcon: false
+        icon: arrowLeft
+        iconPosition: right
+        style: secondary
+        elementId: ''
+        type: Button
     styles:
       self:
         height: auto
