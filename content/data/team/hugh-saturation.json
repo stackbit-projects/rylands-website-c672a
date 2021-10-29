@@ -2,10 +2,5 @@
     "type": "Person",
     "id": "hugh-saturation",
     "firstName": "Ryland",
-    "lastName": "King",
-    "image": {
-        "type": "ImageBlock",
-        "url": "/images/hugh-saturation.jpg",
-        "altText": "Person photo"
-    }
+    "lastName": "King"
 }
