@@ -51,6 +51,13 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     subtitle: Learn how to get rich and where to surf.
+    feature:
+      fields: []
+      submitLabel: lorem-ipsum
+      elementId: lorem-ipsum
+      action: lorem-ipsum
+      destination: lorem-ipsum
+      type: FormBlock
   - type: FeaturedPostsSection
     variant: variant-c
     colors: colors-c
