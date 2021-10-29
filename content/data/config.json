@@ -63,7 +63,7 @@
             },
             {
                 "label": "heyryland@gmail.com",
-                "showIcon": true,
+                "showIcon": false,
                 "icon": "facebook",
                 "style": "link",
                 "elementId": ""
