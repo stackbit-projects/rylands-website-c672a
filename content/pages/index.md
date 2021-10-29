@@ -63,7 +63,7 @@ sections:
   - type: FeaturedPostsSection
     variant: variant-c
     colors: colors-a
-    backgroundWidth: full
+    backgroundWidth: inset
     title: How to Get Rich
     posts:
       - content/pages/blog/post-three.md
