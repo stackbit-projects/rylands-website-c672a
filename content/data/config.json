@@ -23,7 +23,8 @@
                 "type": "Link",
                 "label": "How to Get Rich",
                 "url": "/how-to-get-rich",
-                "altText": ""
+                "altText": "",
+                "showIcon": false
             },
             {
                 "type": "Link",
