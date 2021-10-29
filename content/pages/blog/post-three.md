@@ -11,40 +11,7 @@ featuredImage:
   url: /images/001 How to Get Rich.png
   altText: 001 How to Get Rich with Ryland King
   caption: 001 How to Get Rich with Ryland King
-bottomSections:
-  - type: CtaSection
-    colors: colors-e
-    backgroundWidth: full
-    title: Test if shows up on new posts
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
-    actions:
-      - type: Button
-        label: Get Started
-        url: 'https://www.stackbit.com/'
-        style: primary
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-        padding:
-          - pt-12
-          - pb-12
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        fontWeight: 700
-        fontStyle: normal
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
+bottomSections: []
 ---
 My feet dangled lightly off the cliff. I gazed at the shore below. The water pushed in, pulled out, and spun into small vortexes as it met.
 
