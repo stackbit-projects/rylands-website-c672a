@@ -8,7 +8,7 @@ excerpt: >-
   Donec sed facilisis nibh.
 featuredImage:
   type: ImageBlock
-  url: /images/post-2.jpeg
+  url: '/images/#001 How to Get Rich.png'
   altText: Post Image
 bottomSections:
   - type: CtaSection
