@@ -46,7 +46,7 @@
     },
     "footer": {
         "colors": "colors-f",
-        "backgroundWidth": "full",
+        "backgroundWidth": "inset",
         "logo": {
             "type": "ImageBlock",
             "altText": "Logo"
