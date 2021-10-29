@@ -14,7 +14,7 @@ sections:
       vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
     actions:
       - type: Button
-        label: Get Started
+        label: How to Get Rich
         url: 'https://www.stackbit.com/'
         style: primary
         elementId: hero-main-button
