@@ -44,7 +44,7 @@ sections:
     subtitle: Learn how to get rich and where to surf.
   - type: FeaturedPostsSection
     variant: variant-c
-    colors: colors-c
+    colors: colors-a
     backgroundWidth: full
     title: How to Get Rich
     posts:
