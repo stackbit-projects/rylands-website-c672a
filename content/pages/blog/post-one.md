@@ -18,7 +18,7 @@ Anyways, did you bring your average monthly spending and income? Oh, great. Do t
 
 Subtract your spending from your income. This is your average savings:
 
-
+![](/images/how%20to%20calculate%20your%20savings%20ratio.png)
 
 Divide your savings by your income. Multiply that number by 100. This is your savings ratio.
 
