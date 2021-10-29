@@ -1,7 +1,7 @@
 ---
 title: '#003 Investing and The Rule of 752'
 layout: PostLayout
-date: '2021-07-01'
+date: '2013-02-01'
 author: content/data/team/hugh-saturation.json
 excerpt: >-
   Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem
