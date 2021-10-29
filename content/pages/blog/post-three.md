@@ -81,11 +81,11 @@ So two years ago that's what I did. I dove head first into the world of money. A
 
 I've learned you can do well with money no matter your income level, no matter your job. I've learned that living a wonderful life in the present and making sure your tomorrow looks just as good is the opposite of a sacrifice. It's empowering! And fun! And I've learned that it's easy. It truly is. Money is easy.
 
-Look here in my financial diary. This shows my life financially before and after I decided I want freedom. Life's been awesome throughout it all, but now I am on a trajectory to endless travels, ownership of my Monday's, and everlasting adventures.
+Look here in my financial diary. This shows my life financially before and after I decided I want freedom.![](/images/net-income-d3313d22.png)
 
+![](/images/net-worth-ef31c9ef.png)
 
-
-
+Life's been awesome throughout it all, but now I am on a trajectory to endless travels, ownership of my Monday's, and everlasting adventures.
 
 I'm going to blog to show how to accomplish what's above. How to get on the trajectory to freedom and live beautifully while you're at it.
 
