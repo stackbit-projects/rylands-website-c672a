@@ -14,8 +14,6 @@ sections:
           opacity: 100
       type: ImageBlock
     title: Things the interest me
-    text: |
-      Learn how to get rich and where to surf.
     actions:
       - type: Button
         label: Get Started
