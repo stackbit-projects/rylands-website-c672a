@@ -61,14 +61,7 @@
             "addressAltText": "Our address"
         },
         "copyrightText": "Powered by Stackbit",
-        "primaryLinks": [
-            {
-                "type": "Link",
-                "label": "Blog",
-                "url": "/blog",
-                "altText": ""
-            }
-        ],
+        "primaryLinks": [],
         "socialLinks": [
             {
                 "type": "Social",
