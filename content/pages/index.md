@@ -61,7 +61,7 @@ sections:
     type: HeroSection
     subtitle: Learn how to get rich and where to surf.
   - type: FeaturedPostsSection
-    variant: variant-b
+    variant: variant-a
     colors: colors-a
     backgroundWidth: inset
     title: How to Get Rich
