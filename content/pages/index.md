@@ -52,7 +52,13 @@ sections:
     type: HeroSection
     subtitle: Learn how to get rich and where to surf.
     feature:
-      fields: []
+      fields:
+        - name: lorem-ipsum
+          label: Name
+          placeholder: Your name
+          isRequired: false
+          width: full
+          type: EmailFormControl
       submitLabel: lorem-ipsum
       elementId: lorem-ipsum
       action: sign-up
