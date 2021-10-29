@@ -1,5 +1,5 @@
 ---
-title: '#002 One Number That Takes You To Freedom'
+title: '#002 The Savings Ratio'
 layout: PostLayout
 date: '2013-02-08'
 author: content/data/team/dianne-ameter.json
