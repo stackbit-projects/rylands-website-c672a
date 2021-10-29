@@ -9,7 +9,7 @@
         "isTitleVisible": true,
         "logo": {
             "type": "ImageBlock",
-            "url": "/images/social_headshot.jpg",
+            "url": "/images/ryland-king.png",
             "altText": "Logo"
         },
         "primaryLinks": [
