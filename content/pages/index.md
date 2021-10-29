@@ -4,7 +4,7 @@ layout: PageLayout
 sections:
   - elementId: ''
     colors: colors-a
-    backgroundWidth: full
+    backgroundWidth: inset
     backgroundImage:
       altText: lorem-ipsum
       caption: lorem-ipsum
