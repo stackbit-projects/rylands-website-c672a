@@ -9,7 +9,7 @@
         "isTitleVisible": true,
         "logo": {
             "type": "ImageBlock",
-            "url": "/images/logo.svg",
+            "url": "/images/social_headshot.jpg",
             "altText": "Logo"
         },
         "primaryLinks": [
