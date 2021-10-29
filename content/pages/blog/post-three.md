@@ -10,6 +10,7 @@ featuredImage:
   type: ImageBlock
   url: /images/001 How to Get Rich.png
   altText: 001 How to Get Rich with Ryland King
+  caption: 001 How to Get Rich with Ryland King
 bottomSections:
   - type: CtaSection
     colors: colors-e
