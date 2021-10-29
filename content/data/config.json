@@ -60,13 +60,6 @@
                 "url": "/",
                 "showIcon": true,
                 "icon": "twitter"
-            },
-            {
-                "type": "Social",
-                "altText": "Facebook",
-                "url": "/",
-                "showIcon": true,
-                "icon": "facebook"
             }
         ],
         "legalLinks": [
