@@ -55,7 +55,7 @@ sections:
       fields: []
       submitLabel: lorem-ipsum
       elementId: lorem-ipsum
-      action: lorem-ipsum
+      action: sign-up
       destination: lorem-ipsum
       type: FormBlock
   - type: FeaturedPostsSection
