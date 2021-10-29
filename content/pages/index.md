@@ -14,7 +14,6 @@ sections:
           opacity: 100
       type: ImageBlock
     title: Things the interest me
-    subtitle: This Is Subtitle
     text: |
       Learn how to get rich and where to surf.
     actions:
