@@ -94,7 +94,7 @@ sections:
     subtitle: The first steps you should take to make yourself rich
   - type: ContactSection
     colors: colors-a
-    backgroundWidth: full
+    backgroundWidth: inset
     title: Get future posts
     feature:
       type: ImageBlock
