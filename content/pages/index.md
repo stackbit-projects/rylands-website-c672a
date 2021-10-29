@@ -15,7 +15,7 @@ sections:
       type: ImageBlock
     title: Things the interest me
     actions:
-      - label: Learn more
+      - label: How to Get Rich
         altText: Learn more
         url: /
         showIcon: false
