@@ -3,7 +3,7 @@ title: '#004 How to Simplify Your Financial Life'
 date: '2013-02-22'
 featuredImage:
   type: ImageBlock
-  url: /images/post-1.jpeg
+  url: /images/004 how to simplify your financial life.png
   altText: Post thumbnail image
 bottomSections: []
 layout: PostLayout
