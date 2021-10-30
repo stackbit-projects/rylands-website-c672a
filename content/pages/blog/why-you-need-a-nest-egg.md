@@ -1,9 +1,6 @@
 ---
 title: '#008 Why You Need a Nest Egg'
 date: '2013-03-16'
-excerpt: >-
-  This is the excerpt of your blog post visible in the post feed or featured
-  posts.
 featuredImage:
   type: ImageBlock
   url: /images/post-1.jpeg
