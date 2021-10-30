@@ -1,6 +1,6 @@
 ---
 title: '#009 My Stock Picks Now and Forever'
-date: '2013-03-30'
+date: '2013-03-23'
 excerpt: >-
   This is the excerpt of your blog post visible in the post feed or featured
   posts.
