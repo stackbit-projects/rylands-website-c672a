@@ -4,7 +4,6 @@ date: '2013-02-22'
 featuredImage:
   type: ImageBlock
   url: /images/004 how to simplify your financial life.png
-  altText: Post thumbnail image
 bottomSections: []
 layout: PostLayout
 ---
