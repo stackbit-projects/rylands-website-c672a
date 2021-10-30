@@ -1,5 +1,5 @@
 ---
-title: '#008 Bridge Funds Make Your '
+title: '#008 Bridge Funds Make Your Money Journey Fun As Hell'
 date: '2013-03-16'
 featuredImage:
   type: ImageBlock
