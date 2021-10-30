@@ -1,5 +1,5 @@
 ---
-title: How to Get RIch
+title: How to Get Rich
 sections:
   - type: HeroSection
     elementId: homepage-hero-1
