@@ -1,5 +1,5 @@
 ---
-title: '#009 My '
+title: '#009 My Stock Picks Now and Forever'
 date: '2021-10-30'
 excerpt: >-
   This is the excerpt of your blog post visible in the post feed or featured
