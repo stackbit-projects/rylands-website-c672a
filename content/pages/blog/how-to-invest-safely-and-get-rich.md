@@ -3,7 +3,7 @@ title: '#007 How to Invest Wisely and Get Rich'
 date: '2013-03-16'
 featuredImage:
   type: ImageBlock
-  url: /images/post-1.jpeg
+  url: /images/007-how-to-invest-your-money-to-get-rich-safely.png
   altText: Post thumbnail image
 bottomSections: []
 layout: PostLayout
