@@ -10,6 +10,7 @@ featuredImage:
   altText: Post thumbnail image
 bottomSections: []
 layout: PostLayout
+author: content/data/team/hilary-ouse.json
 ---
 ## Lorem ipsum
 
