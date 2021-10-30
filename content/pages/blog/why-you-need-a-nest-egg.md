@@ -1,5 +1,5 @@
 ---
-title: '#008 Why You Need a Nest Egg'
+title: '#008 Why You a Nest Egg'
 date: '2013-03-16'
 featuredImage:
   type: ImageBlock
