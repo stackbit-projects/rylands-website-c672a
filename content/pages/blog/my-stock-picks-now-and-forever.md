@@ -1,5 +1,5 @@
 ---
-title: '#009 My Stock Picks Now and Forever'
+title: '#009 My Stock Picks Now Until... Forever'
 date: '2013-03-23'
 featuredImage:
   type: ImageBlock
