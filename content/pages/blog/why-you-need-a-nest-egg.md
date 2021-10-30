@@ -4,7 +4,7 @@ date: '2013-03-16'
 featuredImage:
   type: ImageBlock
   url: /images/sitting-on-a-log.jpeg
-  altText: 'sittingon a '
+  altText: sitting on a lot with a waterfall in the background
 bottomSections: []
 layout: PostLayout
 author: content/data/team/hilary-ouse.json
