@@ -3,7 +3,7 @@ title: '#009 My Stock Picks Now and Forever'
 date: '2013-03-23'
 featuredImage:
   type: ImageBlock
-  url: /images/post-1.jpeg
+  url: /images/bouldering a red rock in utah.png
   altText: Post thumbnail image
 bottomSections: []
 layout: PostLayout
