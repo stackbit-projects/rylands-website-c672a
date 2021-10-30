@@ -3,7 +3,7 @@ title: '#005 How to Use Bank Accounts Like a Badass'
 date: '2013-03-01'
 featuredImage:
   type: ImageBlock
-  url: /images/post-1.jpeg
+  url: /images/005 How to Use Your Bank Accounts Like a Badass.png
   altText: Post thumbnail image
 bottomSections: []
 layout: PostLayout
