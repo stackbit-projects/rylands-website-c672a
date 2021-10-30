@@ -3,7 +3,7 @@ title: Why You Need To Start Investing Now
 date: '2013-03-09'
 featuredImage:
   type: ImageBlock
-  url: /images/post-1.jpeg
+  url: /images/why-you-need-to-start-investing-now.png
   altText: Post thumbnail image
 bottomSections: []
 layout: PostLayout
