@@ -1,5 +1,5 @@
 ---
-title: Why You Need To Start Investing Now
+title: '#006 Why You Need To Start Investing Now'
 date: '2013-03-09'
 featuredImage:
   type: ImageBlock
