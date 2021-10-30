@@ -1,9 +1,6 @@
 ---
 title: '#005 How to Use Bank Accounts Like a Badass'
 date: '2013-03-01'
-excerpt: >-
-  This is the excerpt of your blog post visible in the post feed or featured
-  posts.
 featuredImage:
   type: ImageBlock
   url: /images/post-1.jpeg
