@@ -4,7 +4,7 @@ date: '2013-03-09'
 featuredImage:
   type: ImageBlock
   url: /images/why-you-need-to-start-investing-now.png
-  altText: Post thumbnail image
+  altText: Why You Need To Start Investing Now
 bottomSections: []
 layout: PostLayout
 author: content/data/team/hilary-ouse.json
