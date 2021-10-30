@@ -1,5 +1,5 @@
 ---
-title: Post Title
+title: '#007 How to Invest Wisely and Get Rich'
 date: '2021-10-30'
 excerpt: >-
   This is the excerpt of your blog post visible in the post feed or featured
