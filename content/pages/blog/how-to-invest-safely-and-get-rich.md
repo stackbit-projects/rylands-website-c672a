@@ -4,6 +4,7 @@ date: '2013-03-16'
 featuredImage:
   type: ImageBlock
   url: /images/007-how-to-invest-your-money-to-get-rich-safely.png
+  altText: man talking with child
 bottomSections: []
 layout: PostLayout
 author: content/data/team/hilary-ouse.json
