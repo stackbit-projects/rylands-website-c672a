@@ -4,7 +4,7 @@ date: '2013-03-23'
 featuredImage:
   type: ImageBlock
   url: /images/bouldering a red rock in utah.png
-  altText: Post thumbnail image
+  altText: bouldering red rocks in utah
 bottomSections: []
 layout: PostLayout
 author: content/data/team/hilary-ouse.json
