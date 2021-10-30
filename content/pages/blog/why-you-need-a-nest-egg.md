@@ -3,7 +3,7 @@ title: '#008 Why You Need a Nest Egg'
 date: '2013-03-16'
 featuredImage:
   type: ImageBlock
-  url: /images/post-1.jpeg
+  url: /images/sitting-on-a-log.jpeg
   altText: Post thumbnail image
 bottomSections: []
 layout: PostLayout
