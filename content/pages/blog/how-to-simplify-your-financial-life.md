@@ -1,6 +1,6 @@
 ---
 title: '#004 How to Simplify Your Financial Life'
-date: '2013-02-28'
+date: '2013-02-22'
 excerpt: >-
   This is the excerpt of your blog post visible in the post feed or featured
   posts.
