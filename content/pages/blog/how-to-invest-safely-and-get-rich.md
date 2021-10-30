@@ -1,6 +1,6 @@
 ---
 title: '#007 How to Invest Wisely and Get Rich'
-date: '2013-03-30'
+date: '2013-03-16'
 excerpt: >-
   This is the excerpt of your blog post visible in the post feed or featured
   posts.
