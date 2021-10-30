@@ -1,5 +1,5 @@
 ---
-title: '#008 Why You Bridge Funds'
+title: '#008 Bridge Funds'
 date: '2013-03-16'
 featuredImage:
   type: ImageBlock
